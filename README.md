@@ -1,4 +1,4 @@
-## Hi there 👋
+Estudiante Ingeniería Informática
 
 <!--
 **micheldacruz/micheldacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
