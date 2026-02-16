@@ -1,4 +1,4 @@
-## 🎓 Estudiante Ingeniería Informática
+## 🎓 Estudiante Ingeniería Informática de la Universidad de la Laguna
 
 <!--
 **micheldacruz/micheldacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
